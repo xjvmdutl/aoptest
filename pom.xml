@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<org.springframework-version>4.3.24.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.22.RELEASE</org.springframework-version>
 	</properties>
 	<dependencies>
 	<!-- Spring Context -->
